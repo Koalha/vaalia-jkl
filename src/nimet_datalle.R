@@ -1,4 +1,7 @@
 ## Annetaan tietueille nimet
+## alkuperäinen data oli CSV-muotoinen ehdokaskohtainen kuntavaalitulos täältä:
+## http://tulospalvelu.vaalit.fi/KV-2017/fi/ladattavat_tiedostot.html
+## Tiedosto on liian iso githubille, joten jätän sen pois.
 library(tidyverse)
 
 nms <- cols(
